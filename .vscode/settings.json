@@ -1,8 +1,6 @@
 {
     "files.associations": {
         "*.embeddedhtml": "html",
-        "vector": "cpp",
-        "unordered_map": "cpp",
-        "functional": "cpp"
+        "queue": "cpp"
     }
 }
